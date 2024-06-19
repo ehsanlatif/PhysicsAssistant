@@ -1,0 +1,9 @@
+torch
+transformers
+openai
+Pillow
+tkinter
+numpy
+opencv-python
+pyttsx3
+speechrecognition
