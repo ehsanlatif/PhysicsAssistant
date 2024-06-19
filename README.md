@@ -57,11 +57,11 @@ Ensure you have the following installed:
 
 If you use this model or code in your research, please cite our paper:
 ```
-@article{Latif2023PhysicsAssistant,
+@article{latif2024physicsassistant,
   title={PhysicsAssistant: An LLM-Powered Interactive Learning Robot for Physics Lab Investigations},
-  author={Ehsan Latif, Ramviyas Parasuraman, Xiaoming Zhai},
-  journal={Journal of Artificial Intelligence in Education},
-  year={2023}
+  author={Latif, Ehsan and Parasuraman, Ramviyas and Zhai, Xiaoming},
+  journal={IEEE RO-MAN Special Session},
+  year={2024}
 }
 ```
 
